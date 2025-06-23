@@ -19,13 +19,10 @@ A full-stack CRM Meetings Module built with **React**, **Node.js**, **Express**,
 
 ## Screenshots
 
-### Create Meeting Form
-
 ![1](screenShots/1.png)
 ![2](screenShots/2.png)
 ![3](screenShots/3.png)
 ![4](screenShots/4.png)
-![5](screenShots/5.png)
 ![6](screenShots/6.png)
 ![7](screenShots/7.png)
 ![8](screenShots/8.png)

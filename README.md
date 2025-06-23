@@ -71,7 +71,7 @@ REACT_APP_BASE_URL=http://localhost:5001/
 #### Start Server
 ```bash
 cd server
-npm run dev
+node index.js
 ```
 
 #### Start Client

@@ -14,22 +14,23 @@ A full-stack CRM Meetings Module built with **React**, **Node.js**, **Express**,
   - Attendees (Contacts or Leads)
   - Notes
 - **View Meeting** details
-- **Delete Single**
+- **Delete Single Metting**
 ---
 
 ## Screenshots
 
 ### Create Meeting Form
 
-![Create Meeting](screenshots/create-meeting.png)
+![1](screenShots/1.png)
+![2](screenShots/2.png)
+![3](screenShots/3.png)
+![4](screenShots/4.png)
+![5](screenShots/5.png)
+![6](screenShots/6.png)
+![7](screenShots/7.png)
+![8](screenShots/8.png)
+![9](screenShots/9.png)
 
-### Meeting List View
-
-![List](screenshots/meeting-list.png)
-
-### 🔹 Meeting Details
-
-![Details](screenshots/meeting-details.png)
 
 ---
 

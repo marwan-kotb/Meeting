@@ -35,8 +35,8 @@ A full-stack CRM Meetings Module built with **React**, **Node.js**, **Express**,
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/marwan-kotb/Meeting.git
+cd the project
 ```
 
 ---
